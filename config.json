@@ -1,0 +1,17 @@
+{
+    "output_dir": "output",
+    "camera": {
+        "width": 640,
+        "height": 480,
+        "fps": 30
+    },
+    "detection": {
+        "min_face_size": [30, 30],
+        "scale_factor": 1.1,
+        "min_neighbors": 5
+    },
+    "recording": {
+        "enabled": true,
+        "fps": 20
+    }
+} 
